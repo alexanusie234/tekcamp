@@ -1,0 +1,42 @@
+commit b434c09587bc87583151163c24198823022bfe3b
+Author: alexanusie234 <alexanusie234@gmail.com>
+Date:   Tue Jan 25 21:54:47 2022 -0500
+
+    Resetted my previous staged changes and added new value to h1
+
+commit cfdabda60f3e305bb3db3a7a9d10c21c1972b6e6
+Author: alexanusie234 <alexanusie234@gmail.com>
+Date:   Tue Jan 25 20:50:17 2022 -0500
+
+    Changed the h1 value and changed h1 to h2 in the heading of index.html
+
+commit 9afa116c22fce16d7185794d5b6e1da18e88c1c8
+Merge: c27738f 36694d8
+Author: alexanusie234 <alexanusie234@gmail.com>
+Date:   Tue Jan 25 19:47:41 2022 -0500
+
+    resolved merge conflict
+
+commit 36694d89c777ffee5bb778caeaf4318b5a0fe45a
+Author: alexanusie234 <alexanusie234@gmail.com>
+Date:   Tue Jan 25 17:08:12 2022 -0500
+
+    Updated the title value on the index.html file and it was my first time touching HTML
+
+commit c27738f08e8fa3499b920592293ce91d57b92c59
+Author: alexanusie234 <alexanusie234@gmail.com>
+Date:   Tue Jan 25 15:06:23 2022 -0500
+
+    Added body to index.html
+
+commit 8048651be6ec6a2a65fe5ff062f765ad9bd858ec
+Author: alexanusie234 <alexanusie234@gmail.com>
+Date:   Tue Jan 25 13:43:36 2022 -0500
+
+    Created and saved folder git and index.html file
+
+commit 7a147aa12f6eb819c10499aba3fa01a344a5e9d0
+Author: alexanusie234 <94494703+alexanusie234@users.noreply.github.com>
+Date:   Fri Jan 21 23:24:21 2022 -0500
+
+    Initial commit
